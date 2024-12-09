@@ -1,1 +1,1 @@
-# user-research
+Just serve the index.html file with whatever server you want.
